@@ -1,0 +1,26 @@
+body {
+    background-color: mintcream;
+    color: seagreen;
+
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    border: 1px solid black;
+    padding: 0;
+    background-color: darkslategray;
+}
+
+th {
+    color: mintcream;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 0;
+    width: 100px;
+    margin: 0;
+    background-color: mintcream;
+}
